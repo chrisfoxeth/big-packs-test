@@ -6,7 +6,7 @@ import {
   useOwnedNFTs,
   usePack,
 } from "@thirdweb-dev/react";
-import { PackRewards } from "@thirdweb-dev/sdk/dist/src/schema";
+import { PackRewards } from "@thirdweb-dev/sdk/dist/declarations/src/evm/schema";
 import type { NextPage } from "next";
 import { useState } from "react";
 import ERC1155RewardBox from "../components/ERC1155RewardBox";
