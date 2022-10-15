@@ -145,3 +145,4 @@ Then we again `map` over the rewards arrays contained in the `openedRewards` obj
 ## Join our Discord!
 
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+# test-1
